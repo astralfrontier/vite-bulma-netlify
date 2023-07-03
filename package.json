@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@types/ramda": "^0.28.23",
-    "@types/react": "^18.2.13",
+    "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.5",
     "@vitejs/plugin-react-swc": "^3.3.2",
     "cypress": "^12.14.0",
