@@ -28,7 +28,7 @@
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react-swc": "^3.3.2",
     "cypress": "^12.17.3",
-    "netlify-cli": "^15.11.0",
+    "netlify-cli": "^16.0.2",
     "prettier": "^3.0.0",
     "sass": "^1.64.2",
     "typescript": "^5.1.6",
